@@ -4,7 +4,7 @@ langchain==0.3.14
 openai==1.59.7
 
 protobuf==3.20.3
-pymupdf4llm==0.0.17
+pymupdf4llm
 python-dotenv==1.0.1
 Requests==2.32.3
 selenium==4.27.1
