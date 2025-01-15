@@ -2,7 +2,6 @@ Babel==2.11.0
 beautifulsoup4==4.12.3
 langchain==0.3.14
 openai==1.59.7
-
 protobuf==3.20.3
 pymupdf4llm
 python-dotenv==1.0.1
@@ -11,3 +10,5 @@ selenium==4.27.1
 webdriver_manager==4.0.2
 pandas
 google-ai-generativelanguage==0.6.10
+setuptools
+google.generativeai
